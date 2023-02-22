@@ -1,4 +1,4 @@
-# Student-management (Bài test sau phỏng vấn)
+# Student-management (Bài test)
 1. Phân tách giao diện thành các component mang tính chất có khả năng tái sử
 dụng.
 2. Tổ chức cấu trúc thư mục trong project:
